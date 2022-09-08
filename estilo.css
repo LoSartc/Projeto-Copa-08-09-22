@@ -1,0 +1,59 @@
+header{
+    background-color: white;
+    padding: 10px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    font-family:arial black;
+    border: solid black;
+}
+
+.logo{
+    width: 200px;
+}
+
+.menu li{
+    display: inline;
+    margin: 0 50px;
+    font-family: arial black;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px;
+}
+
+
+p{
+    font-family:'Lucida Grande';
+    font-size: 22px;
+    background-color: #a52a2a;
+    text-align:center;
+    padding: 8px;
+    width: 94%;
+    margin: 0 4px;
+}
+
+img{
+    display: inline-block;
+    margin: 0 20px;
+    padding: 20px;
+    width: 535px;
+}
+
+.nemu{
+    background-color: #a52a2a;
+    font-family: arial black;
+    font-size: 30px;
+    text-align: center;
+    padding: 2px;
+    width: 94%;
+    margin: 0 4px;
+    text-decoration:underline;
+    text-shadow: 1px 1px 1px;
+}
+
+.imagem{
+    padding: 0px;
+    width: 420px;
+    border: solid black;
+    margin: 10px 10px;
+    justify-content: center;
+}
